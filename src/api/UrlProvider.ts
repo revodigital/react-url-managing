@@ -1,3 +1,14 @@
+/*
+ * Copyright (c) 2022. Revo Digital
+ * ---
+ * Author: gabriele
+ * File: UrlProvider.ts
+ * Project: react-url-managing
+ * Committed last: 2022/7/21 @ 154
+ * ---
+ * Description:
+ */
+
 /**
  * Represents a generic provider
  */

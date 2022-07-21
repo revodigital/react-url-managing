@@ -1,3 +1,14 @@
+/*
+ * Copyright (c) 2022. Revo Digital
+ * ---
+ * Author: gabriele
+ * File: index.tsx
+ * Project: react-url-managing
+ * Committed last: 2022/7/21 @ 156
+ * ---
+ * Description:
+ */
+
 import React           from 'react';
 import ReactDOM        from 'react-dom/client';
 import './index.css';

@@ -1,10 +1,10 @@
 /*
- * Copyright (c) 2022. Revo Digital
+ * Copyright (c) 2022-2022. Revo Digital
  * ---
  * Author: gabriele
  * File: UrlProviderInstanceManager.ts
  * Project: react-url-managing
- * Committed last: 2022/7/21 @ 152
+ * Committed last: 2022/7/21 @ 154
  * ---
  * Description:
  */

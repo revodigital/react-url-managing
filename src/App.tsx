@@ -1,23 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo  from './logo.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div style={ { margin: '10px' } }>
+          <img src={ logo } alt="logo" style={{width: '100px'}}/>
+          <p style={ { marginTop: '20px' } }>
+            Build using <code
+            style={ {
+              background: 'darkgray',
+              padding: '2px',
+              borderRadius: '5px'
+            } }>npm run
+            build:prod</code> to see different urls for the application
+          </p>
+          Powered by <a target="NEW" href="https://revodigital.it/" style={{color: 'black'}}>Revo
+          Digital</a>
+        </div>
       </header>
     </div>
   );
